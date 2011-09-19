@@ -9,7 +9,7 @@ gem 'sqlite3', :groups => [:development, :production]
 
 gem 'mysql2', '~> 0.3.7', :group => :production
 
-gem 'bcrypt-ruby'
+gem 'bcrypt-ruby', :platform => 'ruby'
 
 
 # Gems used only for assets and not required
