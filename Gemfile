@@ -12,6 +12,7 @@ gem 'mysql2', '~> 0.3.7', :group => :production
 gem 'bcrypt-ruby', :platform => 'ruby'
 
 gem 'execjs', '~> 1.2.8'
+gem 'notjustagrid'
 
 
 # Gems used only for assets and not required
